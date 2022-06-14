@@ -1,6 +1,6 @@
 {
 	"expo": {
-		"name": "con-react-native-mealsapp",
+		"name": "My Recipe Book",
 		"slug": "con-react-native-mealsapp",
 		"version": "1.0.0",
 		"orientation": "portrait",
@@ -17,9 +17,11 @@
 		},
 		"assetBundlePatterns": ["**/*"],
 		"ios": {
+			"buildNumber": "1",
 			"supportsTablet": true
 		},
 		"android": {
+			"versionCode": "1.0.0",
 			"adaptiveIcon": {
 				"foregroundImage": "./assets/adaptive-icon.png",
 				"backgroundColor": "#FFFFFF"
